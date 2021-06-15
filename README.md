@@ -2,30 +2,14 @@
 
 **Hi, My Name's RealBluxy, I'm A PHP Dev
 
-## My Latest Projects !
+## My Projects !
 
-query {
-  viewer {
-    repositories(first: 100, privacy: PUBLIC) {
-      pageInfo {
-        hasNextPage
-        endCursor
-      }
-      nodes {
-        name
-        releases(last:1) {
-          totalCount
-          nodes {
-            name
-            publishedAt
-            url
-          }
-        }
-      }
-    }
-  }
-}
+- ![Announcements](https://github.com/RealBluxy/Announcements)
+- ChatPlaceHolder (Rleasing Soon!)
+- Lobby-Essentials (Not Rleased)
+- Join-Effect (Not Rleased)
 
+## My Stats
 ![Bluxy's github stats](https://github-readme-stats.vercel.app/api?username=RealBluxy&show_icons=true&hide_border=true)
 
 <!--
