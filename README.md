@@ -17,9 +17,9 @@
 
 ### Get In Touch: <img src="https://cdn.discordapp.com/emojis/740608307546423316.png?v=1" width="15" height="15">
 
-E-mail: contact@bluxy.tk
-Website: dev.bluxy.tk
-Discord: Bluxy#0001
+- E-mail: contact@bluxy.tk
+- Website: dev.bluxy.tk
+- Discord: Bluxy#0001
 
 <!--
 **RealBluxy/RealBluxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
