@@ -1,15 +1,15 @@
 ### RealBluxy:
 
-**Hi, My Name's RealBluxy, I'm A PHP Dev
+**Hi, My Name's RealBluxy, I'm A PHP Dev**
 
-## My Projects !
+### My Projects !
 
 - ![Announcements](https://github.com/RealBluxy/Announcements)
 - ChatPlaceHolder (Rleasing Soon!)
 - Lobby-Essentials (Not Rleased)
 - Join-Effect (Not Rleased)
 
-## My Stats
+### My Stats
 ![Bluxy's github stats](https://github-readme-stats.vercel.app/api?username=RealBluxy&show_icons=true&hide_border=true)
 
 <!--
