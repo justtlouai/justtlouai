@@ -7,10 +7,8 @@
 
 ### My Projects: <img src="https://cdn.discordapp.com/emojis/740608690951815190.png?v=1" width="15" height="15">
 
-- [Announcements](https://github.com/RealBluxy/Announcements)
-- ChatPlaceHolder (Rleasing Soon!)
-- Lobby-Essentials (Not Rleased)
-- Join-Effect (Not Rleased)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RealBluxy&repo=Announcements)](https://github.com/RealBluxy/Announcements) <br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RealBluxy&repo=ChatPlaceHolder)](https://github.com/RealBluxy/ChatPlaceHolder)
 
 ### My Stats: <img src="https://cdn.discordapp.com/emojis/740608753706991627.png?v=1" width="15" height="15">
 ![Bluxy's github stats](https://github-readme-stats.vercel.app/api?username=RealBluxy&show_icons=true&hide_border=true)
