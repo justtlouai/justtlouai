@@ -3,21 +3,12 @@
 
 ### <img src="https://cdn.discordapp.com/emojis/738082890381787280.png" width="15" height="15"> RealBluxy: 
 
-**Hi, My Name's RealBluxy, I'm A PHP Dev**
-
-### My Projects: <img src="https://cdn.discordapp.com/emojis/740608690951815190.png?v=1" width="15" height="15">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RealBluxy&repo=Announcements)](https://github.com/RealBluxy/Announcements) <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RealBluxy&repo=ChatPlaceHolder)](https://github.com/RealBluxy/ChatPlaceHolder)
-
-### My Stats: <img src="https://cdn.discordapp.com/emojis/740608753706991627.png?v=1" width="15" height="15">
-![Bluxy's github stats](https://github-readme-stats.vercel.app/api?username=RealBluxy&show_icons=true&hide_border=true)
+**PHP, JS, HTML and CSS Dev**
 
 ### Get In Touch: <img src="https://cdn.discordapp.com/emojis/740608307546423316.png?v=1" width="15" height="15">
 
-- E-mail: contact@bluxy.tk
-- Website: dev.bluxy.tk
-- Discord: Bluxy#0001
+- E-mail: louaiiache@gmail.com
+- Discord: Bluxy#9589
 
 <!--
 **RealBluxy/RealBluxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
