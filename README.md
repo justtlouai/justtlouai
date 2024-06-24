@@ -4,7 +4,7 @@ JS, php and some python
 
 ### Contact:
 - E-mail: louaiiache@gmail.com
-- Discord: justtlouai#9589
+- Discord: @justtlouai
 
 <!--
 **RealBluxy/RealBluxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
