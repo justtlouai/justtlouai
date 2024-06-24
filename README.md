@@ -1,14 +1,10 @@
-<a href="https://www.twitter.com/Bluxy_"> <img src="https://cdn.discordapp.com/emojis/740608535079026709.png?v=1" width="25" height="25"> </a>
-<a href="https://www.youtube.com/"> <img src="https://cdn.discordapp.com/emojis/740608498714542260.png?v=1" width="25" height="25"> </a>
+16, he/him
+<br/>
+JS, php and some python
 
-### <img src="https://cdn.discordapp.com/emojis/738082890381787280.png" width="15" height="15"> RealBluxy: 
-
-**PHP, JS, HTML and CSS Dev**
-
-### Get In Touch: <img src="https://cdn.discordapp.com/emojis/740608307546423316.png?v=1" width="15" height="15">
-
+### Contact:
 - E-mail: louaiiache@gmail.com
-- Discord: Bluxy#9589
+- Discord: justtlouai#9589
 
 <!--
 **RealBluxy/RealBluxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
