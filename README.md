@@ -1,6 +1,6 @@
 16, he/him
 <br/>
-JS, php and some python
+javascript, rust and some php
 
 ### Contact:
 - E-mail: louaiiache@gmail.com
