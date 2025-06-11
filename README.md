@@ -1,7 +1,4 @@
 16, he/him
-<br/>
-javascript, rust and some php
-
 ### Contact:
 - E-mail: louaiiache@gmail.com
 - Discord: @justtlouai
